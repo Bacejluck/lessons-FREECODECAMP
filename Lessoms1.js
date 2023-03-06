@@ -1,3 +1,0 @@
-print("fdfdddddddddddddddddddsaf")
-print("worldddddddddddddddddddddddd")
-
